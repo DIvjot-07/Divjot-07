@@ -1,16 +1,46 @@
-## Hi there 👋
+Hi there, I'm Divjot Bedi
+Typing SVG
 
-<!--
-**DIvjot-07/Divjot-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+GitHub LinkedIn Email
 
-Here are some ideas to get you started:
+About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Helloo I’m Divjot, an AI & Data Science student who loves exploring machine learning, data science,doing data analyss and problem solving. Currently learning DSA in C and C++ while building projects to improve my development and AI skills
+
+I enjoy:
+
+Exploring AI/ML and Deep learning concepts
+Solving coding problems for DSA in Java
+Working on data science and data analyst projects
+Learning new technologies daily in this fast imporving generation
+Tech Stack
+Languages
+
+Java Python C SQL R C++
+AI / ML / Deep Learning
+Scikit-Learn TensorFlow Keras PyTorch OpenCV HuggingFace NLTK
+
+Data Science
+NumPy Pandas Matplotlib Seaborn Plotly SciPy Jupyter Excel
+
+Data Analytics Tools
+Excel Power BI Tableau SQL Pandas NumPy Matplotlib Jupyter
+
+Tools
+Git GitHub VS Code
+
+GitHub Stats
+
+
+
+
+
+
+Current Focus
+Learning DSA in Java & Python
+Exploring AI/ML & Deep Learning
+Building Data Science Projects
+Improving Development Skills Daily
+Connect With Me
+  
