@@ -8,9 +8,9 @@
 <br>
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-yashita72-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Divjot-07)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yashita_Gaur-da70d6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divjotbedi)
-[![Email](https://img.shields.io/badge/Gmail-yashitagaur09%40gmail.com-ffb6c1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divjotbedi16706@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Divjot-07-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Divjot-07)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Divjot-Bedi-da70d6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divjotbedi)
+[![Email](https://img.shields.io/badge/Gmail-divjotbedi16706@gmail.com-ffb6c1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divjotbedi16706@gmail.com)
 
 </div>
 
