@@ -1,4 +1,4 @@
-## Hi there, I'm Divjot Bedi  <img width="90px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWY1bmFrdWVyd3c0YXAxYnQwazc1MTMxendtM2k1bnB0Z251Ymh1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dRk36UfCgXgblG6LHv/giphy.gif" />
+## Hi there, I'm Divjot Bedi  <img width="100px" src="assets/scuba-giphy.gif" />
 
 <div>
   <a href="https://git.io/typing-svg">
@@ -18,16 +18,16 @@
 
 #  About Me
 
-<img align="right" width="260px" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
+<img align="right" width="435px" src="assets/spider-man-find-share-on-giphy.gif" />
 
 Helloo
-I’m Divjot, an AI & Data Science student who loves exploring machine learning, data science,doing data analyss and problem solving. Currently learning DSA in Java & Python while building projects to improve my development and AI skills 
+I’m Divjot, an AI & Data Science student who loves exploring machine learning, data science,doing data analyss and problem solving. Currently learning DSA in C++ & C while building projects to improve my development and AI skills 
 
 I enjoy:
 -  Exploring AI/ML  and Deep learning concepts
--  Solving coding problems for DSA in Java
+-  Solving coding problems for DSA in C++
 -  Working on data science and data analyst projects
-- Learning new technologies daily in this fast imporving generation
+-  Learning new technologies daily in this fast imporving generation
 
 ---
 
@@ -54,7 +54,7 @@ Languages
 
 ###  Data Science 
 
-![NumPy](https://img.shields.io/badge/NumPy-da70d6?style=fo r-the-badge&logo=numpy&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-da70d6?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-ff69b4?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffb6c1?style=for-the-badge&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-dc84f3?style=for-the-badge&logo=python&logoColor=white)
@@ -97,9 +97,9 @@ Languages
 
 #  Current Focus
 
-- Learning DSA in Java & Python
--  Exploring AI/ML & Deep Learning
--  Building Data Science Projects
+- Learning DSA in C & C++
+- Exploring AI/ML & Deep Learning
+- Building Data Science Projects
 - Improving Development Skills Daily
 
 ---
@@ -108,15 +108,15 @@ Languages
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/yashita-gaur">
+<a href="https://www.linkedin.com/in/divjotbedi">
   <img src="https://img.shields.io/badge/LinkedIn-da70d6?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="mailto:yashitagaur09@gmail.com">
+<a href="mailto:divjotbedi16706@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-ff69b4?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<a href="https://github.com/yashita72">
+<a href="https://github.com/Divjot-07">
   <img src="https://img.shields.io/badge/GitHub-ffb6c1?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
