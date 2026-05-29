@@ -93,11 +93,7 @@ I enjoy:
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=yashita72&show_icons=true&theme=radical)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=yashita72&theme=radical)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashita72&layout=compact&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Divjot-07&theme=dark&background=1a0a0a&ring=E23636&fire=F0B429&currStreakLabel=F0B429&sideLabels=F0B429&currStreakNum=FFD0D0&sideNums=FFD0D0&dates=888780&stroke=F0B429)](https://github.com/Divjot-07)
 
 </div>
 
