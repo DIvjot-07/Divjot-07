@@ -8,9 +8,9 @@
 <br>
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Divjot__07-00BFFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Divjot-07)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Divjot_Bedi-00BFFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divjotbedi)
-[![Gmail](https://img.shields.io/badge/Gmail-divjotbedi16706%40gmail.com-00BFFF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divjotbedi16706@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Divjot__07-2a1a4a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Divjot-07)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Divjot_Bedi-2a1a4a?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divjotbedi)
+[![Gmail](https://img.shields.io/badge/Gmail-divjotbedi16706%40gmail.com-2a1a4a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divjotbedi16706@gmail.com)
 
 </div>
 
@@ -113,15 +113,15 @@ I enjoy:
 <p align="center">
 
 <a href="https://www.linkedin.com/in/divjotbedi">
-  <img src="https://img.shields.io/badge/LinkedIn-da70d6?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img src="https://img.shields.io/badge/LinkedIn-ff671f?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="mailto:divjotbedi16706@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-ff69b4?style=for-the-badge&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/Gmail-ffffff?style=for-the-badge&logo=gmail&logoColor=o6038d">
 </a>
 
 <a href="https://github.com/Divjot-07">
-  <img src="https://img.shields.io/badge/GitHub-ffb6c1?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-o67a38?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </p>
