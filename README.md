@@ -20,7 +20,7 @@
 
 <img align="right" width="435px" src="assets/spider-man-find-share-on-giphy.gif" />
 
-Helloo
+Heyo
 I’m Divjot, an AI & Data Science student who loves exploring machine learning, data science, doing data analyis and problem solving. Currently learning DSA in C++ & C while building projects to improve my development and AI skills 
 
 I enjoy:
