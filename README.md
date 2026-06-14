@@ -31,13 +31,11 @@ I enjoy:
 
 ---
 
-<!-- Marvel Tech Stack README -->
-
 <div align="center">
 
 # ⚡ TECH STACK
 <img align="right" width="450px" src=assets/web-swing-sticker-by-spider-man-for-ios-android-giphy.gif />
-</div>
+</div> <!--swinging spider man-->
 
 ---
 
