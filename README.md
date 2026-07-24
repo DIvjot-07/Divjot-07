@@ -25,9 +25,9 @@ I’m Divjot, an AI & Data Science student who loves exploring machine learning,
 
 I enjoy:
 -  Exploring AI/ML  and Deep learning concepts
--  Solving coding problems for DSA in C++
+-  Solving coding problems for DSA in python
 -  Working on data science and data analyst projects
--  Learning new technologies daily in this fast imporving generation
+-  Learning new technologies daily in this fast improving generation
 
 ---
 
